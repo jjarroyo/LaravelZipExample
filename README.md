@@ -6,9 +6,7 @@ PHP 7.4<br><br>
 ejecutar<br>
 
 npm install y npm run dev<br>
-
-en el .env agregar
-<br><br><br>
+<br><br>
 
 
 Tutorial en: https://www.rincondeproyectos.com/2023/01/crear-un-zip-en-laravel.html
